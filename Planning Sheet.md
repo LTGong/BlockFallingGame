@@ -10,3 +10,8 @@ A set of (slightly arcane) rules from the [Tetris Wiki](http://tetris.wikia.com/
 ##random other notes. 
 [Ragtime tetris Music?](https://www.youtube.com/watch?v=ZSLnkyPSlEM)
 
+##Elements
+Gameboard
+
+Block class
+Queue of blocks
